@@ -2,10 +2,13 @@
   "version": "1.0.0",
   "minecraft": "26.2",
   "loader": "fabric",
-
   "update": [
+    "mods/"
   ],
-
   "firstInstall": [
+    "config/",
+    "shaderpacks/",
+    "resourcepacks/",
+    "options.txt"
   ]
 }
